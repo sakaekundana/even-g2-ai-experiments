@@ -27,3 +27,11 @@ Key areas of exploration include:
 - Cooperative AI integration within platform boundaries  
 
 This repository will gradually evolve as experimentation progresses.
+
+## Voice Interaction Exploration
+
+Currently researching low-latency mobile speech recognition approaches and real-time AI response loops.
+
+Key concern:
+- End-to-end latency from voice input to HUD display
+- Balancing streaming vs. structured output delivery
