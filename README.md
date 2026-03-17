@@ -1,6 +1,3 @@
-# even-g2-ai-experiments
-my ongoing exploration of spatial AI
-
 # G2 Spatial AI Exploration
 
 This repository documents my ongoing exploration into integrating conversational AI with lightweight spatial devices such as Even G2.
@@ -35,3 +32,9 @@ Currently researching low-latency mobile speech recognition approaches and real-
 Key concern:
 - End-to-end latency from voice input to HUD display
 - Balancing streaming vs. structured output delivery
+
+## Early Architecture Idea
+
+Voice → Mobile App → Cloud AI → Structured Text → Even G2 Display
+
+The idea is to keep the glasses interface lightweight while performing most processing on the mobile and cloud side.
