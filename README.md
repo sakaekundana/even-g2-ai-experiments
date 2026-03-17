@@ -38,3 +38,5 @@ Key concern:
 Voice → Mobile App → Cloud AI → Structured Text → Even G2 Display
 
 The idea is to keep the glasses interface lightweight while performing most processing on the mobile and cloud side.
+
+Long-term vision: a natural AI companion experience similar to a personal AI assistant.
